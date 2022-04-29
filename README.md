@@ -1,4 +1,4 @@
-# Dungeon game 📋
+# Dungeon game 🎮
 Dungeon game to practice JavaScript
 
 ## Starting 🚀
